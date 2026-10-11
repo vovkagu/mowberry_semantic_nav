@@ -1,0 +1,12 @@
+# Build and install artifacts (just in case)
+build/
+install/
+log/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+.vscode/
